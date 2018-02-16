@@ -9,7 +9,6 @@ $login=traccar::login($username,$password);
 if($login->responseCode=='200') {
 
 	$traccarCookie = traccar::$cookie;
-	$traccarPHPSESSIONID = $traccarCookie;
 
 	$response = $login->response;
 	$userArray = json_decode($response,true);
