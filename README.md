@@ -22,6 +22,9 @@ Traccar Server & API Version : 3.15 Supported
 - Edit Device UI
 - Playback UI
 - Reports UI
+- Admin User Management UI
+- Admin Device Management UI
+- Admin Device <-> User Allocation UI
 
 
 All codes/examples are being provided here for free by www.yodiyil.com
