@@ -1,12 +1,21 @@
 # traccar-api-php
 Use traccar api with php.
 
-The current supported version of Traccar Server Version is 3.15
+Traccar Server & API Version : 3.15 Supported
 
-This is an effort towards implementing support for Traccar API in PHP.
+# Features
+- Login
+- Logout
 
-Apart from just providing the functions and libraries or class for it, I am also providing working examples and usage of Traccar API using PHP.
 
-There will also be working examples of Map based Live Tracking and various other UI Implementations as well.
+# Features to be added
+- Device List
+- Position
+- Reports
+- Geo-Fence
+- Notifications & Events
+- Commands
+- Playback Route
+- User Interface Implementation of Map
 
 All codes/examples are being provided here for free by www.yodiyil.com
